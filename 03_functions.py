@@ -7,12 +7,18 @@ def sum(a,b):
     result = a + b
     return result
 
+def get_two_numbers():
+    num1 = int(input("write a number: "))
+    num2 = int(input("write another number: "))
+    return num1,num2
+
 
 print('hi!')
 message()
 
-x = int(input("First number: "))
-y = int(input("Second number: "))
+#x = int(input("First number: "))
+#y = int(input("Second number: "))
+x,y = get_two_numbers()
 
 z = sum(x,y)
 print(z)
