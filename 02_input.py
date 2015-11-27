@@ -16,3 +16,11 @@ elif year > 2015:
 else:
     print('ok')
 
+while True:
+    text = input("Magic word?" )
+    if text.lower() == 'please':
+        break
+    else:
+        print('nope, try again...')
+
+print('goodbye')
