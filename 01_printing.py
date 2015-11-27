@@ -8,4 +8,7 @@ print("Hello!", "Goodbye", "The",'End',sep="<--X-->")
 print()
 print("*" * 10)
 
-print("Nr 1: {}, Nr 2: {}, Nr 3: {}".format('A','B','C'))
+a = 'A'
+b = 42
+c = 'Nothing'
+print("Nr 1: {}, Nr 2: {}, Nr 3: {}".format(a,b,c))
