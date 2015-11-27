@@ -20,6 +20,13 @@ message()
 #y = int(input("Second number: "))
 x,y = get_two_numbers()
 
+print(x,y)
+
+x,y = y,x
+
+print(x,y)
+
+
 z = sum(x,y)
 print(z)
 
