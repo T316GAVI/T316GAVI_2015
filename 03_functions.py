@@ -16,3 +16,9 @@ y = int(input("Second number: "))
 
 z = sum(x,y)
 print(z)
+
+x = input("First text: ")
+y = input("Second text: ")
+
+z = sum(x,y)
+print(z)
