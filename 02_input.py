@@ -22,5 +22,6 @@ while True:
         break
     else:
         print('nope, try again...')
+    print('?')
 
 print('goodbye')
