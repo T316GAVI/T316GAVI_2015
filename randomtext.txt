@@ -1,4 +1,4 @@
 This is some text
-that I'm trying to write
-without thinking too much of
-what I should be writing...
+    that I'm trying to write
+           without thinking too much of
+\t\twhat I should be writing...

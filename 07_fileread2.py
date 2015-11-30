@@ -6,8 +6,10 @@ t = f.readlines()
 
 print(t)
 print('--------')
-print(type(t))
-print(len(t))
-print(len(t[0]))
+
+for i in range(len(t)):
+    t[i] = t[i].strip()
+
+print(t)
 
 f.close()
