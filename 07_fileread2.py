@@ -19,6 +19,9 @@ print(thetext)
 
 words = thetext.split()
 
+for i in range(len(words)):
+    words[i] = words[i].strip('.')
+
 print(type(words))
 print(len(words))
 print(words)
