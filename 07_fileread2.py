@@ -13,7 +13,12 @@ for i in range(len(t)):
 print(t)
 print('----------')
 
-print(' '.join(t))
+thetext = ' '.join(t)
 
+print(thetext)
+
+words = thetext.split()
+
+print(words)
 print()
 f.close()
