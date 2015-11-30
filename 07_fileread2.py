@@ -1,9 +1,12 @@
 
 f = open('randomtext.txt','r')
 
-for line in f:
-    print(line,end='')
-print()
+t = f.read()
 
+
+print(t)
+print('--------')
+print(type(t))
+print(len(t))
 
 f.close()
