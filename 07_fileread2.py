@@ -19,6 +19,8 @@ print(thetext)
 
 words = thetext.split()
 
+print(type(words))
+print(len(words))
 print(words)
 print()
 f.close()
