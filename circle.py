@@ -5,5 +5,3 @@ def area(radius):
 
 def circumference(radius):
     return radius*2*math.pi
-
-print("Hi!!!")
