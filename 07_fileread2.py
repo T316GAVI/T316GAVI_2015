@@ -11,5 +11,9 @@ for i in range(len(t)):
     t[i] = t[i].lstrip().rstrip('\n')
 
 print(t)
+print('----------')
 
+print(' '.join(t))
+
+print()
 f.close()
