@@ -12,4 +12,8 @@ with open('MAN01405.csv','r') as csvfile:
             print(row)
             firstrow = False
 
+        if row['Íslenskir ríkisborgarar Brottfluttir'].isdigit() \
+        and int(row['Íslenskir ríkisborgarar Brottfluttir']) > 3000:
+            print(row['Ár'], row['Íslenskir ríkisborgarar Brottfluttir'], sep=': ')
+
 
