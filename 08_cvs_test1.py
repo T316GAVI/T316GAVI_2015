@@ -17,3 +17,5 @@ with open('MAN01405.csv') as csvfile:
 
 print('Total brottfluttir: ', sum(brottfluttir))
 print()
+
+

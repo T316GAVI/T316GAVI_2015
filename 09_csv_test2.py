@@ -17,8 +17,7 @@ with open('MAN01405.csv','r') as csvfile:
             print(row)
             firstrow = False
 
-        if row[islbrott].isdigit() \
-        and int(row[islbrott]) > 3000:
+        if row[islbrott].isdigit() and int(row[islbrott]) > 3000:
             print(row[yearfield], row[islbrott], sep=': ')
 
 
