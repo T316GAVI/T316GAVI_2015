@@ -10,7 +10,10 @@ with open('MAN01405.csv') as csvfile:
         if readingheaderrow:
             readingheaderrow = False
         else:
-            brottfluttir.append(int(row[5]))
+            try:
+                brottfluttir.append(int(row[5]))
+            except:
+                pass
 
 print('Total brottfluttir: ', sum(brottfluttir))
 print()
