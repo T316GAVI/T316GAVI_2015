@@ -6,4 +6,10 @@ with open('MAN01405.csv','r') as csvfile:
 
     dictreader = csv.DictReader(csvfile, dialect = currentdialect)
 
+    firstrow = True
+    for row in dictreader:
+        if firstrow:
+            print(row)
+            firstrow = False
+
 
