@@ -1,0 +1,89 @@
+import numpy as np
+import pandas as pd
+s = pd.Series(['Hello',42,np.pi, -17, 'testing'])
+s
+type(s)
+d = {}
+d['Chicago'] = 900
+d['New York'] = 1300
+d
+d['Portland'] = 800
+d
+d['San Fransisco'] = 1100
+d['Austin'] = 450
+d['Boston'] = None
+d
+cities = pd.Series(d)
+cities
+cities['Chicago']
+cities[['Chicago','Portland','New York']]
+cities < 1000
+cities[ cities < 1000 ]
+lessthan1000 = cities < 1000
+lessthan1000
+cities[ lessthan1000 ]
+cities[ lessthan1000 ]
+cities
+cities[ lessthan1000 ]
+cities[ lessthan1000 ] = 659
+cities
+'Boston' in cities
+'Reykjavik' in cities
+cities
+cities**3
+np.square(cities)
+cities**2
+cities[ lessthan1000 ] = 800
+cities
+c2 = cities[['Chicago','New York']] + cities[['Boston','Chicago']]
+c2
+data = {}
+data['Movie'] = ['Alien','Se7en','Taxi','Ran']
+data['Year'] = [1979,1995,1998,1985]
+data['Dir'] = ['Scott','Fincher','Besson','Kurosawa']
+data['Rating'] = [8.5, 8.7, 6.9, 8.3]
+data
+type(data)
+m = pd.DataFrame(data)
+m
+m = pd.DataFrame(data, columns = ['Year', 'Movie', 'Dir', 'Rating'])
+m
+data
+m
+m.to_csv('movies.csv')
+m
+m[m.Year == 1985]
+m = pd.read_csv('movies.csv')
+m
+m[ m.Year == 1985 ]
+m[ m.Year == 1985 ].Year
+m
+int(m[m.index == 3]['Year'])
+list(m[m.Rating >= 8.0]['Year'])
+m['Year'][3]
+import matplotlib.pyplot as plt
+settings = {}
+settings['encoding'] = 'latin1'
+settings['sep'] = ';'
+settings['parse_dates'] = ['Date',]
+settings['dayfirst'] = True
+settings['index_col'] = 'Date'
+settings
+bikes = pd.read_csv('bikes.csv', **settings)
+bikes
+bikes['Berri 1']
+bikes['Berri 1'].plot()
+plt.show()
+berri_bikes = bikes[['Berri 1']].copy()
+berri_bikes[:10]
+berri_bikes['weekday'] = berri_bikes.index.weekday
+berri_bikes[:10]
+settings
+weekday_counts = berri_bikes.groupby('weekday').aggregate(sum)
+weekday_counts
+weekday_counts.index = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']
+weekday_counts.index = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']
+weekday_counts
+print(weekday_counts)
+weekday_counts.plot(kind='bar')
+plt.show()
