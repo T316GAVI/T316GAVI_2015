@@ -1,0 +1,36 @@
+create table beers (
+name varchar(250),
+manf varchar(250),
+primary key (name));
+
+create table bars (
+name varchar(250),
+addr varchar(250),
+licence char(10),
+primary key (name));
+
+create table drinkers (
+name varchar(250),
+addr varchar(250),
+phone char(12),
+primary key (name));
+
+create table likes (
+drinker varchar(250) references drinkers(name),
+beer varchar(250) references beers(name),
+primary key (drinker, beer)
+);
+
+create table sells (
+bar varchar(250) references bars (name),
+beer varchar(250) references beers (name),
+price real,
+primary key (bar, beer)
+);
+
+create table frequents (
+drinker varchar(250) references drinkers (name),
+bar varchar(250) references bars (name),
+primary key (drinker, bar)
+);
+

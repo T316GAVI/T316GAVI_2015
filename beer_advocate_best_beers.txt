@@ -1,0 +1,750 @@
+1   Good Morning
+Tree House Brewing Company
+American Double / Imperial Stout / 8.40% ABV    4.7 173 | 811
+2   Kentucky Brunch Brand Stout
+Toppling Goliath Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.67    76 | 477
+3   Mornin' Delight
+Toppling Goliath Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.67    119 | 719
+4   Pliny The Younger
+Russian River Brewing Company
+American Double / Imperial IPA / 11.00% ABV 4.66    890 | 2,771
+5   Heady Topper
+The Alchemist
+American Double / Imperial IPA / 8.00% ABV  4.66    2,083 | 11,609
+6   Dinner
+Maine Beer Company
+American Double / Imperial IPA / 8.20% ABV  4.62    154 | 1,358
+7   Founders CBS Imperial Stout
+Founders Brewing Company
+American Double / Imperial Stout / 10.60% ABV   4.61    940 | 3,964
+8   Bourbon Barrel Aged Vanilla Bean Dark Lord
+3 Floyds Brewing Co.
+Russian Imperial Stout / 15.00% ABV 4.61    266 | 1,301
+9   Trappist Westvleteren 12 (XII)
+Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)
+Quadrupel (Quad) / 10.20% ABV   4.6 1,738 | 5,701
+10  Julius
+Tree House Brewing Company
+American IPA / 6.80% ABV    4.6 293 | 2,027
+11  Pliny The Elder
+Russian River Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.6 3,473 | 13,147
+12  Bourbon County Brand Coffee Stout
+Goose Island Beer Co.
+American Double / Imperial Stout / 13.40% ABV   4.59    1,071 | 6,399
+13  Barrel-Aged Abraxas
+Perennial Artisan Ales
+American Double / Imperial Stout / 11.00% ABV   4.56    98 | 1,095
+14  Founders KBS (Kentucky Breakfast Stout)
+Founders Brewing Company
+American Double / Imperial Stout / 11.20% ABV   4.56    2,810 | 10,837
+15  Sip Of Sunshine
+Lawson's Finest Liquids
+American IPA / 8.00% ABV    4.56    351 | 3,201
+16  Abner
+Hill Farmstead Brewery
+American Double / Imperial IPA / 8.20% ABV  4.56    342 | 2,302
+17  Double Sunshine IPA
+Lawson's Finest Liquids
+American Double / Imperial IPA / 8.00% ABV  4.55    312 | 1,949
+18  Citra Double IPA
+Kern River Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.55    367 | 1,536
+19  Focal Banger
+The Alchemist
+American IPA / 7.00% ABV    4.55    157 | 1,661
+20  Fundamental Observation
+Bottle Logic Brewing
+American Double / Imperial Stout / 14.30% ABV   4.53    61 | 270
+21  Zombie Dust
+3 Floyds Brewing Co.
+American Pale Ale (APA) / 6.20% ABV 4.53    1,377 | 8,981
+22  Parabola
+Firestone Walker Brewing Co.
+Russian Imperial Stout / 14.00% ABV 4.53    1,091 | 5,727
+23  King Sue
+Toppling Goliath Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.53    105 | 1,122
+24  Artaic
+Trillium Brewing Company
+American Double / Imperial IPA / 8.50% ABV  4.52    75 | 525
+25  Ann
+Hill Farmstead Brewery
+Saison / Farmhouse Ale / 6.50% ABV  4.52    62 | 252
+26  PseudoSue
+Toppling Goliath Brewing Company
+American Pale Ale (APA) / 5.80% ABV 4.51    389 | 3,154
+27  Triple Sunshine IPA
+Lawson's Finest Liquids
+American Double / Imperial IPA / 10.50% ABV 4.51    47 | 497
+28  In Perpetuity
+Tree House Brewing Company
+American IPA / 6.70% ABV    4.51    60 | 249
+29  Double Galaxy
+Hill Farmstead Brewery
+American Double / Imperial IPA / 8.00% ABV  4.5 175 | 979
+30  Morning Wood
+Funky Buddha Brewery
+American Porter / 12.00% ABV    4.5 45 | 256
+31  Duck Duck Gooze
+The Lost Abbey
+American Wild Ale / 7.00% ABV   4.5 257 | 1,534
+32  Hunahpu's Imperial Stout
+Cigar City Brewing
+American Double / Imperial Stout / 11.00% ABV   4.5 708 | 3,558
+33  Bourbon County Brand Stout
+Goose Island Beer Co.
+American Double / Imperial Stout / 13.80% ABV   4.5 2,657 | 10,899
+34  Green
+Tree House Brewing Company
+American IPA / 7.60% ABV    4.5 124 | 992
+35  Supplication
+Russian River Brewing Company
+American Wild Ale / 7.00% ABV   4.49    1,393 | 5,786
+36  Rare Bourbon County Brand Stout (2015)
+Goose Island Beer Co.
+American Double / Imperial Stout / 14.50% ABV   4.49    32 | 183
+37  Cantillon Fou' Foune
+Brasserie Cantillon
+Lambic - Fruit / 5.00% ABV  4.49    487 | 2,503
+38  Bell's Black Note Stout
+Bell's Brewery, Inc.
+American Double / Imperial Stout / 11.40% ABV   4.49    558 | 3,742
+39  Cantillon Blåbær Lambik
+Brasserie Cantillon
+Lambic - Fruit / 5.00% ABV  4.49    227 | 669
+40  The Abyss
+Deschutes Brewery
+American Double / Imperial Stout / 11.00% ABV   4.49    1,794 | 6,227
+41  SR-71 Blackbird (2015)
+Toppling Goliath Brewing Company
+American Double / Imperial Stout / 14.00% ABV   4.48    36 | 343
+42  Society & Solitude #4
+Hill Farmstead Brewery
+American Double / Imperial IPA / 8.00% ABV  4.48    118 | 861
+43  Bourbon County Brand Barleywine Ale
+Goose Island Beer Co.
+English Barleywine / 12.10% ABV 4.48    474 | 4,539
+44  Ephraim
+Hill Farmstead Brewery
+American Double / Imperial IPA / 10.50% ABV 4.48    207 | 871
+45  Kuhnhenn Bourbon Barrel Fourth Dementia
+Kuhnhenn Brewing Company
+Old Ale / 13.50% ABV    4.48    387 | 1,763
+46  Alter Ego
+Tree House Brewing Company
+American IPA / 6.80% ABV    4.48    95 | 639
+47  BOMB!
+Prairie Artisan Ales
+American Double / Imperial Stout / 14.00% ABV   4.48    631 | 4,639
+48  Double Citra
+Hill Farmstead Brewery
+American Double / Imperial IPA / 8.00% ABV  4.48    182 | 1,504
+49  Bourbon Barrel Aged Dark Lord Imperial Stout
+3 Floyds Brewing Co.
+Russian Imperial Stout / 15.00% ABV 4.48    182 | 692
+50  Todd The Axe Man
+Surly Brewing Company
+American IPA / 7.20% ABV    4.47    213 | 1,249
+51  Galaxy Dry Hopped Fort Point Pale Ale
+Trillium Brewing Company
+American Pale Ale (APA) / 6.60% ABV 4.47    78 | 819
+52  Trappist Westvleteren 8 (VIII)
+Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)
+Dubbel / 8.00% ABV  4.47    783 | 1,948
+53  Dark Horse Bourbon Barrel Aged Plead The 5th
+Dark Horse Brewing Company
+Russian Imperial Stout / 11.00% ABV 4.47    379 | 2,745
+54  Black Tuesday
+The Bruery
+American Double / Imperial Stout / 19.20% ABV   4.47    629 | 3,417
+55  Trappistes Rochefort 10
+Brasserie de Rochefort
+Quadrupel (Quad) / 11.30% ABV   4.47    2,701 | 8,496
+56  Atrial Rubicite
+Jester King Brewery
+American Wild Ale / 5.80% ABV   4.46    136 | 1,494
+57  Abrasive Ale
+Surly Brewing Company
+American Double / Imperial IPA / 9.00% ABV  4.46    888 | 4,048
+58  Haze
+Tree House Brewing Company
+American Double / Imperial IPA / 8.20% ABV  4.46    106 | 842
+59  Fuzzy Baby Ducks IPA
+New England Brewing Co.
+American IPA / 6.20% ABV    4.46    67 | 583
+60  Founders Breakfast Stout
+Founders Brewing Company
+American Double / Imperial Stout / 8.30% ABV    4.46    3,543 | 15,118
+61  Beatification
+Russian River Brewing Company
+American Wild Ale / 5.50% ABV   4.46    528 | 2,405
+62  Susan
+Hill Farmstead Brewery
+American IPA / 6.20% ABV    4.45    145 | 1,368
+63  Everett Porter
+Hill Farmstead Brewery
+American Porter / 7.50% ABV 4.45    339 | 2,237
+64  Hopslam Ale
+Bell's Brewery, Inc.
+American Double / Imperial IPA / 10.00% ABV 4.45    3,270 | 11,766
+65  Cantillon Lou Pepe - Kriek
+Brasserie Cantillon
+Lambic - Fruit / 5.00% ABV  4.45    332 | 1,561
+66  AleSmith Speedway Stout - Bourbon Barrel Aged
+AleSmith Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.45    318 | 1,778
+67  Old Stock Cellar Reserve (Aged In Brandy Barrels)
+North Coast Brewing Co.
+Old Ale / 15.20% ABV    4.45    115 | 701
+68  Cable Car
+The Lost Abbey
+American Wild Ale / 7.00% ABV   4.45    214 | 842
+69  Drie Fonteinen Oude Geuze Golden Blend
+Brouwerij Drie Fonteinen
+Gueuze / 7.50% ABV  4.45    165 | 812
+70  Imperial Biscotti Break Bourbon Barrel Aged
+Evil Twin Brewing
+American Double / Imperial Stout / 11.50% ABV   4.44    98 | 1,259
+71  Black Gold (2015)
+Central Waters Brewing Co.
+American Double / Imperial Stout / 11.00% ABV   4.44    34 | 194
+72  Double Dry Hopped Fort Point Pale Ale
+Trillium Brewing Company
+American Pale Ale (APA) / 6.60% ABV 4.44    47 | 576
+73  Adam From The Wood
+Hair of the Dog Brewing Company / Brewery and Tasting Room
+Old Ale / 12.00% ABV    4.44    153 | 844
+74  §ucaba
+Firestone Walker Brewing Co.
+English Barleywine / 12.50% ABV 4.44    812 | 4,558
+75  Drie Fonteinen Oude Geuze Vintage
+Brouwerij Drie Fonteinen
+Gueuze / 6.00% ABV  4.44    118 | 616
+76  Society & Solitude #5
+Hill Farmstead Brewery
+American Double / Imperial IPA / 8.10% ABV  4.44    138 | 1,188
+77  Permanent Funeral
+3 Floyds Brewing Co.
+American Double / Imperial IPA / 10.50% ABV 4.43    281 | 2,539
+78  Columbus Bodhi DIPA
+Columbus Brewing Company
+American Double / Imperial IPA / 8.50% ABV  4.43    150 | 1,221
+79  Assassin Imperial Stout
+Toppling Goliath Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.43    82 | 962
+80  Fort Point Pale Ale
+Trillium Brewing Company
+American Pale Ale (APA) / 6.60% ABV 4.43    116 | 1,220
+81  Double Dry Hopped Congress Street
+Trillium Brewing Company
+American IPA / 7.20% ABV    4.43    37 | 437
+82  Last Snow
+Funky Buddha Brewery
+American Porter / 6.50% ABV 4.42    158 | 1,173
+83  Stickee Monkee
+Firestone Walker Brewing Co.
+Quadrupel (Quad) / 13.40% ABV   4.42    194 | 1,947
+84  No Rules
+Perrin Brewery
+American Porter / 15.00% ABV    4.42    106 | 451
+85  Maple Bacon Coffee Porter
+Funky Buddha Brewery
+American Porter / 6.40% ABV 4.42    180 | 1,341
+86  Upper Case
+Trillium Brewing Company
+American Double / Imperial IPA / 9.00% ABV  4.42    42 | 372
+87  Sosus
+Toppling Goliath Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.42    101 | 1,010
+88  Congress Street IPA
+Trillium Brewing Company
+American IPA / 7.20% ABV    4.42    117 | 1,161
+89  St. Bernardus Abt 12
+Brouwerij St. Bernardus NV
+Quadrupel (Quad) / 10.00% ABV   4.42    2,648 | 8,763
+90  Headroom Double IPA
+Trillium Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.42    35 | 169
+91  Cantillon Saint Lamvinus
+Brasserie Cantillon
+Lambic - Fruit / 5.00% ABV  4.41    459 | 1,856
+92  Curiosity Twenty Two
+Tree House Brewing Company
+American IPA / 7.00% ABV    4.41    30 | 160
+93  Imperial Russian Stout - Bourbon Barrel Aged
+Stone Brewing Co.
+Russian Imperial Stout / 11.50% ABV 4.41    152 | 1,028
+94  Drie Fonteinen Framboos
+Brouwerij Drie Fonteinen
+Lambic - Fruit / 5.00% ABV  4.41    90 | 487
+95  Keene Idea
+Alpine Beer Company
+American Double / Imperial IPA / 8.88% ABV  4.41    54 | 415
+96  Bourbon Barrel Champion Ground
+Jackie O's Pub & Brewery
+American Double / Imperial Stout / 11.00% ABV   4.41    41 | 163
+97  Bourbon Barrel Aged Abominable: Coffee And Cinnamon
+Fremont Brewing Company
+American Strong Ale / 11.00% ABV    4.41    53 | 465
+98  Notorious Triple IPA
+Boneyard Beer Company
+American Double / Imperial IPA / 12.00% ABV 4.41    62 | 517
+99  Fuzzy
+Side Project Brewing
+American Wild Ale / 8.00% ABV   4.41    36 | 407
+100 Mother Of All Storms
+Pelican Pub & Brewery
+English Barleywine / 14.00% ABV 4.4 435 | 1,743
+101 Consecration
+Russian River Brewing Company
+American Wild Ale / 10.00% ABV  4.4 1,096 | 4,855
+102 Imperial Eclipse Stout - Elijah Craig (12 Year)
+FiftyFifty Brewing Co.
+American Double / Imperial Stout / 11.90% ABV   4.4 263 | 1,658
+103 Temptation
+Russian River Brewing Company
+American Wild Ale / 7.50% ABV   4.4 989 | 3,385
+104 Bad Boy
+Alpine Beer Company
+American Double / Imperial IPA / 9.00% ABV  4.4 121 | 498
+105 Peg's G.O.O.D. RareR D.O.S.
+Peg's Cantina & Brew Pub
+American Double / Imperial Stout / 10.00% ABV   4.4 103 | 668
+106 Darkness
+Surly Brewing Company
+Russian Imperial Stout / 10.30% ABV 4.4 811 | 3,352
+107 Chocolate Rain
+The Bruery
+American Double / Imperial Stout / 18.50% ABV   4.4 303 | 2,349
+108 Weihenstephaner Hefeweissbier
+Bayerische Staatsbrauerei Weihenstephan
+Hefeweizen / 5.40% ABV  4.4 2,382 | 7,589
+109 Oro Negro
+Jackie O's Pub & Brewery
+American Double / Imperial Stout / 10.50% ABV   4.4 61 | 354
+110 All Green Everything
+Other Half Brewing Co.
+American Double / Imperial IPA / 10.50% ABV 4.4 83 | 673
+111 Dreadnaught IPA
+3 Floyds Brewing Co.
+American Double / Imperial IPA / 9.50% ABV  4.4 1,677 | 5,685
+112 Wide Awake It's Morning
+Funky Buddha Brewery
+American Double / Imperial Stout / 10.50% ABV   4.39    55 | 225
+113 Stone Enjoy By IPA
+Stone Brewing Co.
+American Double / Imperial IPA / 9.40% ABV  4.39    1,315 | 9,833
+114 Cantillon Lou Pepe - Framboise
+Brasserie Cantillon
+Lambic - Fruit / 5.00% ABV  4.39    269 | 1,099
+115 Pallet 1
+Peg's Cantina & Brew Pub
+American Double / Imperial Stout    4.39    39 | 179
+116 Double Shot - Sumatra Mandheling
+Tree House Brewing Company
+American Stout / 7.80% ABV  4.39    39 | 328
+117 Sunday Brunch
+Kane Brewing Company
+American Porter / 9.20% ABV 4.39    23 | 199
+118 Matt
+Hair of the Dog Brewing Company / Brewery and Tasting Room
+American Strong Ale / 11.50% ABV    4.39    230 | 780
+119 See The Stars
+Creature Comforts
+Russian Imperial Stout / 10.90% ABV 4.39    38 | 100
+120 Evil Twin Double Barrel Jesus
+Evil Twin Brewing
+American Double / Imperial Stout / 12.00% ABV   4.39    52 | 417
+121 Seventeen
+Central Waters Brewing Co.
+American Double / Imperial Stout / 11.50% ABV   4.39    45 | 601
+122 Prairie Pirate Bomb!
+Prairie Artisan Ales
+American Double / Imperial Stout / 14.00% ABV   4.39    109 | 1,438
+123 Epiphany
+Foundation Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.39    73 | 475
+124 Samuel Adams Utopias
+Boston Beer Company (Samuel Adams)
+American Strong Ale / 29.00% ABV    4.39    502 | 2,224
+125 Péché Mortel
+Brasserie Dieu du Ciel!
+American Double / Imperial Stout / 9.50% ABV    4.39    1,732 | 4,610
+126 Rodenbach Caractère Rouge
+Brouwerij Rodenbach N.V.
+Flanders Red Ale / 7.00% ABV    4.39    154 | 1,139
+127 Born Yesterday Pale Ale
+Lagunitas Brewing Company
+American Pale Ale (APA) / 6.50% ABV 4.39    279 | 1,431
+128 Coriolis
+New England Brewing Co.
+American Double / Imperial IPA / 8.20% ABV  4.38    46 | 402
+129 Citra Showers
+Noble Ale Works
+American Double / Imperial IPA / 8.80% ABV  4.38    53 | 344
+130 Peche 'n Brett
+Logsdon Farmhouse Ales
+Saison / Farmhouse Ale / 10.00% ABV 4.38    139 | 1,042
+131 Nelson
+Alpine Beer Company
+American IPA / 7.00% ABV    4.38    724 | 3,510
+132 Hop JuJu Imperial IPA
+Fat Head's Brewery & Saloon
+American Double / Imperial IPA / 9.00% ABV  4.38    171 | 1,579
+133 Edward
+Hill Farmstead Brewery
+American Pale Ale (APA) / 5.20% ABV 4.38    307 | 2,228
+134 Sculpin IPA
+Ballast Point Brewing Company
+American IPA / 7.00% ABV    4.38    2,313 | 12,540
+135 Swish
+Bissell Brothers Brewing Co.
+American Double / Imperial IPA / 8.00% ABV  4.38    50 | 459
+136 Great
+Alpine Beer Company
+American Barleywine / 14.00% ABV    4.38    149 | 571
+137 Yellow Rose
+The Lone Pint Brewery
+American IPA / 6.80% ABV    4.37    147 | 1,249
+138 A Deal With The Devil
+Anchorage Brewing Company
+American Barleywine / 17.30% ABV    4.37    102 | 781
+139 Saison Du Fermier
+Side Project Brewing
+Saison / Farmhouse Ale / 7.00% ABV  4.37    40 | 539
+140 Exponential Hoppiness
+Alpine Beer Company
+American Double / Imperial IPA / 11.00% ABV 4.37    390 | 1,222
+141 Cascade Sang Noir
+Cascade Brewing / Raccoon Lodge & Brewpub
+American Wild Ale / 9.50% ABV   4.37    172 | 1,402
+142 Mosaic Dry Hopped Fort Point
+Trillium Brewing Company
+American Pale Ale (APA) / 6.60% ABV 4.37    37 | 377
+143 Second Fiddle
+Fiddlehead Brewing Company
+American Double / Imperial IPA / 8.20% ABV  4.37    134 | 1,357
+144 Bourbon Barrel Aged Dark Star: Coffee Edition
+Fremont Brewing Company
+American Double / Imperial Stout / 14.50% ABV   4.37    33 | 321
+145 Framboise Du Fermier
+Side Project Brewing
+Saison / Farmhouse Ale / 8.00% ABV  4.37    22 | 128
+146 Drie Fonteinen Hommage
+Brouwerij Drie Fonteinen
+Lambic - Fruit / 6.00% ABV  4.37    151 | 678
+147 AleSmith Speedway Stout
+AleSmith Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.37    1,548 | 5,991
+148 Kuhnhenn Raspberry Eisbock
+Kuhnhenn Brewing Company
+Eisbock / 15.50% ABV    4.37    442 | 1,145
+149 AleSmith Speedway Stout - Vietnamese Coffee
+AleSmith Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.36    99 | 1,231
+150 Live Oak HefeWeizen
+Live Oak Brewing Company
+Hefeweizen / 5.20% ABV  4.36    380 | 1,257
+151 Tweak
+Avery Brewing Company
+American Double / Imperial Stout / 17.81% ABV   4.36    175 | 1,545
+152 Sure Bet
+Pipeworks Brewing Company
+American Double / Imperial IPA / 9.50% ABV  4.36    55 | 439
+153 Cantillon Gueuze 100% Lambic
+Brasserie Cantillon
+Gueuze / 5.00% ABV  4.36    602 | 2,875
+154 Bourbon Barrel Black Maple
+Jackie O's Pub & Brewery
+American Porter / 11.00% ABV    4.36    64 | 695
+155 Double Shot
+Tree House Brewing Company
+American Stout / 7.60% ABV  4.36    32 | 485
+156 Abraxas
+Perennial Artisan Ales
+American Double / Imperial Stout / 10.00% ABV   4.36    194 | 1,841
+157 Vicinity
+Trillium Brewing Company
+American Double / Imperial IPA / 8.00% ABV  4.36    88 | 731
+158 Cantillon Lou Pepe - Gueuze
+Brasserie Cantillon
+Gueuze / 5.00% ABV  4.35    184 | 953
+159 The Pupil
+Societe Brewing Co.
+American IPA / 7.80% ABV    4.35    76 | 773
+160 Victory At Sea Coffee Vanilla Imperial Porter
+Ballast Point Brewing Company
+American Porter / 10.00% ABV    4.35    1,221 | 5,950
+161 Project Dank
+La Cumbre Brewing Co.
+American IPA / 7.50% ABV    4.35    75 | 692
+162 Wisconsin Belgian Red
+New Glarus Brewing Company
+Fruit / Vegetable Beer / 4.00% ABV  4.35    960 | 3,233
+163 ScareCity #3: High West-ified Imperial Coffee Stout
+Lagunitas Brewing Company
+American Double / Imperial Stout / 12.10% ABV   4.35    155 | 1,120
+164 Uncle Jacob's Stout
+Avery Brewing Company
+American Double / Imperial Stout / 16.90% ABV   4.35    291 | 2,066
+165 Hop Venom Double IPA
+Boneyard Beer Company
+American Double / Imperial IPA / 8.90% ABV  4.35    102 | 796
+166 Montmorency Vs Balaton
+Jester King Brewery
+American Wild Ale / 6.70% ABV   4.35    35 | 532
+167 Grey Monday
+The Bruery
+American Double / Imperial Stout / 19.50% ABV   4.35    121 | 1,489
+168 Society & Solitude #6
+Hill Farmstead Brewery
+American Double / Imperial IPA / 8.10% ABV  4.35    52 | 530
+169 Péché Mortel En Fût De Bourbon Américain
+Brasserie Dieu du Ciel!
+American Double / Imperial Stout / 9.50% ABV    4.35    77 | 353
+170 Afterimage
+Grimm Artisanal Ales
+American Double / Imperial IPA / 8.00% ABV  4.35    39 | 151
+171 Mexican Cake
+Westbrook Brewing Co.
+American Double / Imperial Stout / 10.50% ABV   4.35    260 | 2,271
+172 Masala Mama India Pale Ale
+Minneapolis Town Hall Brewery
+American IPA / 6.00% ABV    4.34    671 | 1,316
+173 Breakfast Exorcism
+Clown Shoes
+American Double / Imperial Stout / 11.00% ABV   4.34    33 | 190
+174 Stone Imperial Russian Stout
+Stone Brewing Co.
+Russian Imperial Stout / 10.60% ABV 4.34    2,675 | 7,922
+175 What Is Enlightenment?
+Hill Farmstead Brewery
+American Pale Ale (APA) / 5.40% ABV 4.34    100 | 807
+176 R&D Vintage 2014
+New Glarus Brewing Company
+American Wild Ale / 6.00% ABV   4.34    44 | 270
+177 Caffè Americano
+Cigar City Brewing
+American Double / Imperial Stout / 11.00% ABV   4.34    44 | 499
+178 Double Dry Hopped Sleeper Street IPA
+Trillium Brewing Company
+American IPA / 7.10% ABV    4.34    31 | 269
+179 Bourbon Abominable Winter Ale
+Fremont Brewing Company
+American Strong Ale / 11.00% ABV    4.34    142 | 847
+180 The Event Horizon
+Olde Hickory Brewery
+American Double / Imperial Stout / 8.50% ABV    4.34    256 | 1,527
+181 West Ashley
+Sante Adairius Rustic Ales
+American Wild Ale / 7.30% ABV   4.34    60 | 715
+182 Nooner Batch 10
+Peg's Cantina & Brew Pub
+American Double / Imperial Stout    4.33    22 | 101
+183 Damon (Bourbon Barrel Aged)
+Hill Farmstead Brewery
+Russian Imperial Stout / 10.50% ABV 4.33    82 | 604
+184 Citra Pale Ale
+Hill Farmstead Brewery
+American Pale Ale (APA) / 5.40% ABV 4.33    110 | 871
+185 Raspberry Tart
+New Glarus Brewing Company
+Fruit / Vegetable Beer / 4.00% ABV  4.33    907 | 3,520
+186 BDCS
+Ozark Beer Co.
+American Double / Imperial Stout / 10.20% ABV   4.33    14 | 77
+187 Last Buffalo In The Park
+Funky Buddha Brewery
+American Double / Imperial Stout / 11.50% ABV   4.33    15 | 139
+188 Omega Point
+Olde Hickory Brewery
+English Barleywine / 10.00% ABV 4.33    49 | 333
+189 Arctic Devil Barley Wine
+Midnight Sun Brewing Co.
+English Barleywine / 13.20% ABV 4.33    355 | 1,210
+190 Birth Of Tragedy
+Hill Farmstead Brewery
+American Porter / 9.00% ABV 4.33    161 | 1,058
+191 Old Stock Cellar Reserve (Aged In Bourbon Barrels)
+North Coast Brewing Co.
+Old Ale / 13.16% ABV    4.33    327 | 920
+192 &+
+Peg's Cantina & Brew Pub
+American Double / Imperial Stout / 10.50% ABV   4.33    25 | 102
+193 Lunch
+Maine Beer Company
+American IPA / 7.00% ABV    4.33    647 | 4,420
+194 Beyond Good And Evil
+Hill Farmstead Brewery
+American Double / Imperial Stout    4.33    44 | 502
+195 Ten FIDY
+Oskar Blues Grill & Brew
+Russian Imperial Stout / 10.50% ABV 4.33    2,445 | 9,115
+196 Tröegs Nugget Nectar
+Tröegs Brewing Company
+American Amber / Red Ale / 7.50% ABV    4.33    2,398 | 7,889
+197 Ayinger Celebrator Doppelbock
+Privatbrauerei Franz Inselkammer KG / Brauerei Aying
+Doppelbock / 6.70% ABV  4.33    2,307 | 6,022
+198 30th Anniversary Ale
+Bell's Brewery, Inc.
+American Double / Imperial Stout / 11.00% ABV   4.33    186 | 829
+199 Founders Imperial Stout
+Founders Brewing Company
+Russian Imperial Stout / 10.50% ABV 4.33    1,735 | 7,107
+200 Evil Twin Imperial Biscotti Break
+Evil Twin Brewing
+American Double / Imperial Stout / 11.50% ABV   4.33    456 | 3,582
+201 Snowed In - Bourbon Barrel Aged
+Funky Buddha Brewery
+American Double / Imperial Stout / 11.00% ABV   4.33    17 | 70
+202 Serendipity
+New Glarus Brewing Company
+Fruit / Vegetable Beer / 4.00% ABV  4.33    249 | 2,502
+203 Melange No. 3
+The Bruery
+American Strong Ale / 15.50% ABV    4.33    248 | 1,723
+204 Saison Bernice
+Sante Adairius Rustic Ales
+Saison / Farmhouse Ale / 6.50% ABV  4.32    49 | 646
+205 Aaron
+Hill Farmstead Brewery
+English Barleywine  4.32    25 | 272
+206 Elevated IPA
+La Cumbre Brewing Co.
+American IPA / 7.20% ABV    4.32    167 | 1,194
+207 Pannepot
+De Struise Brouwers
+Quadrupel (Quad) / 10.00% ABV   4.32    812 | 2,265
+208 Pure Hoppiness
+Alpine Beer Company
+American Double / Imperial IPA / 8.00% ABV  4.32    731 | 2,650
+209 Drie Fonteinen Oude Geuze
+Brouwerij Drie Fonteinen
+Gueuze / 6.00% ABV  4.32    695 | 2,468
+210 Hoppy Birthday
+Alpine Beer Company
+American Pale Ale (APA) / 5.25% ABV 4.32    321 | 2,075
+211 Melcher Street IPA
+Trillium Brewing Company
+American IPA / 7.30% ABV    4.32    51 | 483
+212 Madagascar
+4 Hands Brewing Co.
+Milk / Sweet Stout / 9.30% ABV  4.32    32 | 359
+213 AleSmith Speedway Stout - Kopi Luwak
+AleSmith Brewing Company
+American Double / Imperial Stout / 12.00% ABV   4.32    75 | 514
+214 Fat Head's Head Hunter IPA
+Fat Head's Brewery & Saloon
+American IPA / 7.50% ABV    4.32    524 | 3,776
+215 Mastermind
+Fiddlehead Brewing Company
+American Double / Imperial IPA / 8.10% ABV  4.32    99 | 1,024
+216 Prairie Apple Brandy Noir
+Prairie Artisan Ales
+American Double / Imperial Stout / 12.00% ABV   4.32    113 | 1,006
+217 Lagunitas Sucks (Brown Shugga Substitute Ale)
+Lagunitas Brewing Company
+American Double / Imperial IPA / 7.85% ABV  4.32    1,497 | 9,664
+218 Bourbon Barrel Aged Hi-Fi Rye
+Flossmoor Station Restaurant & Brewery
+American Barleywine / 10.90% ABV    4.32    112 | 321
+219 Blind Pig IPA
+Russian River Brewing Company
+American IPA / 6.10% ABV    4.32    1,385 | 5,402
+220 Bitter Monk
+Anchorage Brewing Company
+Belgian IPA / 9.00% ABV 4.32    246 | 932
+221 Black Damnation V - Double Black
+De Struise Brouwers
+American Double / Imperial Stout / 26.00% ABV   4.32    111 | 322
+222 Great Lakes Barrel-Aged Blackout Stout
+Great Lakes Brewing Co.
+Russian Imperial Stout / 9.50% ABV  4.32    410 | 1,713
+223 Mocha Wednesday
+The Bruery
+American Double / Imperial Stout / 19.20% ABV   4.31    81 | 977
+224 Wulver
+Thirsty Dog Brewing Company
+Scotch Ale / Wee Heavy / 12.00% ABV 4.31    173 | 1,420
+225 Older Viscosity
+Port Brewing
+American Double / Imperial Stout / 12.00% ABV   4.31    724 | 2,520
+226 Box Set Track #10 - Bat Out Of Hell
+The Lost Abbey
+American Double / Imperial Stout / 13.50% ABV   4.31    77 | 623
+227 Duet
+Alpine Beer Company
+American IPA / 7.00% ABV    4.31    685 | 3,436
+228 Hipster Brunch Stout
+Odd Side Ales
+American Double / Imperial Stout / 10.00% ABV   4.31    40 | 309
+229 Nut Smasher
+Willoughby Brewing
+American Double / Imperial Stout / 11.00% ABV   4.31    30 | 166
+230 Lizard King
+Pipeworks Brewing Company
+American Pale Ale (APA) / 6.50% ABV 4.31    85 | 414
+231 Three Hour Tour
+Minneapolis Town Hall Brewery
+Milk / Sweet Stout / 6.10% ABV  4.31    85 | 276
+232 Kuhnhenn Bourbon Barrel Barley Wine
+Kuhnhenn Brewing Company
+English Barleywine / 14.50% ABV 4.31    195 | 662
+233 King Julius
+Tree House Brewing Company
+American Double / Imperial IPA / 8.30% ABV  4.31    15 | 76
+234 Monsters Park - Bourbon Barrel Aged With Coconut And Cacao Nibs
+Modern Times Beer
+American Double / Imperial Stout / 13.00% ABV   4.31    15 | 120
+235 Nelson Single Hop
+Hill Farmstead Brewery
+American Pale Ale (APA) / 5.20% ABV 4.31    54 | 376
+236 La Fin Du Monde
+Unibroue
+Tripel / 9.00% ABV  4.31    2,863 | 9,487
+237 Schneider Weisse Tap 6 Unser Aventinus
+Weisses Bräuhaus G. Schneider & Sohn GmbH
+Weizenbock / 8.20% ABV  4.31    2,061 | 4,204
+238 Furious
+Surly Brewing Company
+American IPA / 6.60% ABV    4.31    1,458 | 5,132
+239 Luscious
+The Alchemist
+Russian Imperial Stout / 11.10% ABV 4.31    63 | 399
+240 Heavy Mettle
+Trillium Brewing Company
+American Double / Imperial IPA / 9.30% ABV  4.3 29 | 372
+241 Grassroots Brother Soigné
+Grassroots Brewing
+Saison / Farmhouse Ale / 5.00% ABV  4.3 106 | 1,053
+242 Allagash Coolship Red
+Allagash Brewing Company
+Lambic - Fruit / 5.70% ABV  4.3 77 | 464
+243 Beer Geek Brunch Weasel
+Mikkeller ApS
+American Double / Imperial Stout / 10.90% ABV   4.3 806 | 2,703
+244 Cuvee De Castleton
+Captain Lawrence Brewing Co.
+American Wild Ale / 9.00% ABV   4.3 217 | 496
+245 Kiwi Herman
+Alpine Beer Company
+American Wild Ale / 7.00% ABV   4.3 37 | 229
+246 Pipeworks / 4 Hands Square Grouper
+Pipeworks Brewing Company
+American Double / Imperial IPA / 9.50% ABV  4.3 59 | 626
+247 Crank IPA
+Peg's Cantina & Brew Pub
+American IPA / 7.00% ABV    4.3 42 | 367
+248 Ghost In The Machine
+Parish Brewing Company
+American Double / Imperial IPA / 8.50% ABV  4.3 42 | 270
+249 Mosaic IPA
+Other Half Brewing Co.
+American IPA / 7.20% ABV    4.3 31 | 237
+250 Devil Over A Barrel - Bourbon Barrel-Aged Coffee Imperial Oatmeal Porter
+Tyranena Brewing Company
+American Porter / 8.00% ABV 4.3 278 | 540
