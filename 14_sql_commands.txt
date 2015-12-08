@@ -49,3 +49,8 @@ from drinkers
 where lower(name) like '%bat%';
 
 
+select *
+from sells
+where price < 5.10 and lower(beer) like '%stout%';
+
+
