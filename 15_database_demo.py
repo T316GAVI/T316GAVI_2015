@@ -19,9 +19,11 @@ username = input('Username: ')
 sqlstatement = """select thetext
 from importantstuff, users
 where importantstuff.userid = users.userid
-and users.username = '{}';""".format(username)
+and users.username = %s;"""
 
-cursor.execute(sqlstatement)
+values = (username,)
+
+cursor.execute(sqlstatement, values)
 
 results = cursor.fetchall()
 
