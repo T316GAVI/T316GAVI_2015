@@ -16,7 +16,17 @@ cursor = conn.cursor()
 
 username = input('Username: ')
 
-sqlstatement = 'select * from '
+sqlstatement = """select thetext
+from importantstuff, users
+where importantstuff.userid = users.userid
+and users.username = '{}';""".format(username)
+
+cursor.execute(sqlstatement)
+
+results = cursor.fetchall()
+
+for row in results:
+    print(row[0])
 
 cursor.close()
 conn.close()
