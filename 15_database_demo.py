@@ -14,7 +14,9 @@ conn = psycopg2.connect(conn_string)
 
 cursor = conn.cursor()
 
-print('Whee!')
+username = input('Username: ')
+
+sqlstatement = 'select * from '
 
 cursor.close()
 conn.close()
