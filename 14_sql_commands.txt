@@ -54,3 +54,10 @@ from sells
 where price < 5.10 and lower(beer) like '%stout%';
 
 
+select likes.beer
+from likes, frequents
+where frequents.bar like 'Mos%'
+and frequents.drinker = likes.drinker;
+
+
+
