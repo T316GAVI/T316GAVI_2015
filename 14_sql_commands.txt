@@ -60,4 +60,10 @@ where frequents.bar like 'Mos%'
 and frequents.drinker = likes.drinker;
 
 
+select l.beer
+from likes l, frequents f
+where f.bar like 'The B%'
+and f.drinker = l.drinker;
+
+
 
