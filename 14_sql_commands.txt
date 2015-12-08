@@ -66,4 +66,10 @@ where f.bar like 'The B%'
 and f.drinker = l.drinker;
 
 
+select d.name, d.addr, b.name, b.addr
+from drinkers d, bars b, frequents f
+where f.drinker = d.name and f.bar = b.name
+and b.addr like 'Pulp%';
+
+
 
