@@ -1,0 +1,51 @@
+select name as beer, manf as brewery from beers where manf = 'Evil Twin Brewing';
+
+
+select name as beer, manf as brewery, 42 as magicnumber
+from beers
+where manf = 'Evil Twin Brewing';
+
+
+
+select beer, price as priceof1, price*1.5 as priceof2
+from sells
+where bar = 'The Winchester';
+
+
+select phone
+from drinkers
+where name = 'Rorschach';
+
+
+select price
+from sells
+where bar = 'The Bronze'
+and beer = 'AleSmith Speedway Stout';
+
+
+select bar, price
+from sells
+where beer = 'AleSmith Speedway Stout'
+and price < 8.0;
+
+
+select bar, beer, price
+from sells
+where ((beer = 'AleSmith Speedway Stout') and (price < 8.0 or price > 12.0))
+or ((bar = 'The Winchester') and (price > 12.0));
+
+
+select name as beer, manf
+from beers
+where name like '%IPA%';
+
+
+select name
+from drinkers
+where name like '%Bat%';
+
+select name
+from drinkers
+where lower(name) like '%bat%';
+
+
