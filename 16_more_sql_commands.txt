@@ -23,3 +23,12 @@ and f.bar = 'The Raven';
 select f.drinker, d.name, d.addr
 from drinkers d join frequents f on d.name = f.drinker
 where f.bar = 'The Raven';
+
+// töfludemó
+select m.title, g.name
+from movies m, genre g, moviegenre mg
+where m.id = mg.movie_id and g.id = mg.genre_id
+and m.title = 'Toy Story';
+
+
+
