@@ -5,3 +5,6 @@ and s1.price > s2.price
 order by s1.bar, s1.beer;
 
 
+select distinct price from sells order by price;
+
+
