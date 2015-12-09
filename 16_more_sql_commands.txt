@@ -32,3 +32,10 @@ and m.title = 'Toy Story';
 
 
 
+select count(s.price)
+from sells s
+where s.beer like '%IPA%';
+
+select count(distinct s.price)
+from sells s
+where s.beer like '%IPA%';
