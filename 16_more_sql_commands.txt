@@ -8,3 +8,10 @@ order by s1.bar, s1.beer;
 select distinct price from sells order by price;
 
 
+select *
+from drinkers cross join beers;
+
+select count(*) from drinkers;
+select count(*) from beer;
+
+
