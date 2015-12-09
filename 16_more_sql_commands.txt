@@ -53,3 +53,8 @@ group by s.bar
 order by min(s.price) asc;
 
 
+select s.bar
+from sells s
+where s.price = (select min(s1.price) from sells s1);
+
+
