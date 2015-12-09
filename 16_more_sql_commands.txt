@@ -15,3 +15,11 @@ select count(*) from drinkers;
 select count(*) from beer;
 
 
+select f.drinker, d.name, d.addr
+from drinkers d, frequents f
+where d.name = f.drinker
+and f.bar = 'The Raven';
+
+select f.drinker, d.name, d.addr
+from drinkers d join frequents f on d.name = f.drinker
+where f.bar = 'The Raven';
