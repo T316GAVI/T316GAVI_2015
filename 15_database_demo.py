@@ -1,12 +1,12 @@
 import psycopg2
 
 host = 'localhost'
-dbname = 'tempbase' #input('Database name: ') # 'gavi'
+dbname = 'movies' #input('Database name: ') # 'gavi'
 
 username = 'postgres' # input('User name for {}.{}: '.format(host,dbname))  # 'postgres'
 pw = 'postgres' # getpass.getpass()  # 'postgres'
 
-conn_string = "host='{}' dbname='{}' user='{}' password='{}'".format(host, dbname, username, pw)
+conn_string = "host='{}' port='5433' dbname='{}' user='{}' password='{}'".format(host, dbname, username, pw)
 
 print("Connecting to database {}.{} as {}".format(host, dbname, username))
 
