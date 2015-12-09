@@ -1,0 +1,7 @@
+select distinct s1.bar, s1.beer
+from sells s1, sells s2
+where s1.bar = s2.bar
+and s1.price > s2.price
+order by s1.bar, s1.beer;
+
+
