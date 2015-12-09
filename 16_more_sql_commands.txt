@@ -70,5 +70,14 @@ having avg(s.price) > (select avg(s1.price) from sells s1)
 order by avg(s.price) desc, s.bar asc;
 
 
+select s.beer, b.manf, avg(s.price)
+from sells s, beers b
+where s.beer = b.name
+group by s.beer, b.manf
+having count(s.bar) >= 3
+order by s.beer;
+
+
+
 
 
