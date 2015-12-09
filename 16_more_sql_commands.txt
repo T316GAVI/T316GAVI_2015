@@ -58,3 +58,8 @@ from sells s
 where s.price = (select min(s1.price) from sells s1);
 
 
+select s.bar, s.beer, s.price
+from sells s
+where s.price = (select max(s1.price) from sells s1);
+
+
