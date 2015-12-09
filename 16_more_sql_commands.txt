@@ -47,3 +47,9 @@ group by s.bar
 order by count(s.beer) desc, s.bar asc;
 
 
+select s.bar, min(s.price)
+from sells s
+group by s.bar
+order by min(s.price) asc;
+
+
