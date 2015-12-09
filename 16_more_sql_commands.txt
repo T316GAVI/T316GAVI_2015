@@ -63,3 +63,12 @@ from sells s
 where s.price = (select max(s1.price) from sells s1);
 
 
+select s.bar, avg(s.price)
+from sells s
+group by s.bar
+having avg(s.price) > (select avg(s1.price) from sells s1)
+order by avg(s.price) desc, s.bar asc;
+
+
+
+
