@@ -18,3 +18,11 @@ select * from drinkers
 where lower(addr) like '%east%';
 
 
+select d.name as superhero, l.beer, f.bar
+from drinkers d, likes l, frequents f
+where d.name = l.drinker and d.name = f.drinker
+and (f.bar, l.beer) in (select bar, beer from sells
+                        where price between 7.1 and 8.1);
+
+
+
