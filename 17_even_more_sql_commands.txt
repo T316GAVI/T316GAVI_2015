@@ -1,0 +1,7 @@
+select addr, 'superhero' as source from drinkers
+union
+select addr, 'bar' as source from bars
+order by source desc, addr asc;
+
+
+
