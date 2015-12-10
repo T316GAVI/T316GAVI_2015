@@ -4,4 +4,13 @@ select addr, 'bar' as source from bars
 order by source desc, addr asc;
 
 
+# Finna ofurhetjur sem hanga á bar sem selur fleiri en 14 tegundir af bjór.
+select distinct f.drinker
+from frequents f
+where f.bar in (select s.bar
+                from sells s
+                group by s.bar
+                having count(s.beer) > 14)
+order by f.drinker;
+
 
