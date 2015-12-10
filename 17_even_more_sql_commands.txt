@@ -14,3 +14,7 @@ where f.bar in (select s.bar
 order by f.drinker;
 
 
+select * from drinkers
+where lower(addr) like '%east%';
+
+
